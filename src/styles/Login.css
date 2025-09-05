@@ -1,0 +1,9 @@
+/* Custom styles for Login Page */
+
+#main-contein {
+    /* background-image: url('../../public/logo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;  */
+    background: linear-gradient(45deg, #1a2a6c, #b21f1f, #fdbb2d);
+}
